@@ -8,8 +8,8 @@ sky:
     password: 123456
   alioss:
     endpoint: oss-cn-hangzhou.aliyuncs.com
-    access-key-id: LTAI5t8BkoYeiEdWZXqqtH8h
-    access-key-secret: hFg9tT7yJvaGHaYflB3DQpsIoltA7W
+    access-key-id:
+    access-key-secret: 
     bucket-name: web-tlias-yht
   redis:
     host: localhost
@@ -17,5 +17,5 @@ sky:
     password: 123456
     database: 10
   wechat:
-    appid: wxa9042d28e0eacaa7
-    secret: 34052f1f5935ea633c19e53adbb368b8
+    appid: 
+    secret:
